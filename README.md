@@ -15,7 +15,7 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 ### other mods
 - [D3D11 Renderer](https://github.com/SaiyansKing/GD3D11) - DirectX 11 renderer (original game uses DX8)
 - [GRawInput](https://github.com/SaiyansKing/GRawInput/releases) - fixes mouse sensitivity for camera rotation
-- [zUtilities](https://www.sefaris.eu/union/plugins) - adds a plethora of QoL utilities, like time acceleration on key press
+- [zUtilities](https://sefaris.eu/union/plugins) - adds a plethora of QoL utilities, like quick save/load, time acceleration on key press, status bar config, etc.
 - [zMiscUtils](https://sefaris.eu/union/plugins) - similar as zUtilities, but provides different QoL features (set `CorrectModelFocusNamePos=0` to avoid conflict)
 - [Quick Loot](https://www.sefaris.eu/union/plugins) - pick up items not only without animation, but also few at once and from chests
 - [Hedin_Union_Color_Menu](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) - makes currently focused menu option more noticable
