@@ -13,3 +13,4 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 
 
 ### other mods
+- [Hedin_Union_Color_Menu](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) - makes currently focused menu option more noticable
