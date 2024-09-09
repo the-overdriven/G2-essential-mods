@@ -19,21 +19,21 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [zMiscUtils](https://sefaris.eu/union/plugins) - similar as zUtilities, but provides different QoL features (set `CorrectModelFocusNamePos=0` to avoid conflict)
 - [Quick Loot](https://www.sefaris.eu/union/plugins) - pick up items not only without animation, but also few at once and from chests
 - [Hedin_Union_Adv_Inventory](https://www.sefaris.eu/union/plugins) - new inventory, with mouse support!
-- [Hedin_Union_XP_Bar]()
-- [ItemMap]()
-- [NoUnderwaterEffect](https://www.sefaris.eu/union/plugins)
+- [Hedin_Union_XP_Bar](https://www.sefaris.eu/union/plugins) - adds XP bar
+- [ItemMap](https://www.sefaris.eu/union/plugins) - shows items on the map (with tabs)
+- [NoUnderwaterEffect](https://www.sefaris.eu/union/plugins) - removes the blurry shader when under water
 - [Hedin_Union_Color_Menu](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) - makes currently focused menu option more noticable
 - [Marvin Helper](https://steamcommunity.com/sharedfiles/filedetails/?id=2847617433) - adds autosuggest to the console (F2)
 - [Hedin_Union_Ext_Stat](https://www.sefaris.eu/union/plugins) - new stats in char screen
 - ~~[Hedin_Union_Gothic_ScreenInfo](https://www.sefaris.eu/union/plugins)~~ - adds features that already overlap with zUtilities
-- [Hedin_Union_Show_FPS_MP]() - shows FPS in top left corner
-- [Hedin_Union_Thief_Helper]()
-- [ezPickPocket](https://www.sefaris.eu/union/plugins)()
-- [zHackChest]()
-- [zBugFixes]()
-- [zImprovedLegacyFrying]() - enables cooking all meat at once
-- [zMarkItems]() - marks new items and quest items
-- [zScaleFightRange]()
-- [zSharedItems]()
-- [zTorchContro]()
-- [zTraderStoleMyItems]() - traders take off their weapons when trading
+- [Hedin_Union_Show_FPS_MP](https://www.sefaris.eu/union/plugins) - shows FPS in top left corner
+- [Hedin_Union_Thief_Helper](https://www.sefaris.eu/union/plugins) - shows lock combinations on screen
+- [ezPickPocket](https://www.sefaris.eu/union/plugins) - enables pickpocket without entering dialogue
+- [zHackChest](https://www.sefaris.eu/union/plugins) - enables opening chests by breaking their locks with brute force
+- [zBugFixes](https://www.sefaris.eu/union/plugins) - random [low level fixes](https://steamcommunity.com/sharedfiles/filedetails/?id=2849396194)
+- [zImprovedLegacyFrying](https://www.sefaris.eu/union/plugins) - enables cooking all meat at once
+- [zMarkItems](https://www.sefaris.eu/union/plugins) - marks new items and quest items
+- [zScaleFightRange](https://www.sefaris.eu/union/plugins) - scales hit boxes according to enemy size
+- [zSharedItems](https://www.sefaris.eu/union/plugins) - enables item sharing with followers
+- [zTorchControl](https://www.sefaris.eu/union/plugins) - saves torch state and adds hotkeys
+- [zTraderStoleMyItems](https://www.sefaris.eu/union/plugins) - traders take off their weapons when trading
