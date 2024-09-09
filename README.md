@@ -21,7 +21,6 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [Hedin_Union_Adv_Inventory](https://www.sefaris.eu/union/plugins) - new inventory, with mouse support!
 - [ezPickPocket](https://www.sefaris.eu/union/plugins)
 - [NoUnderwaterEffect](https://www.sefaris.eu/union/plugins)
-
 - [Hedin_Union_Color_Menu](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) - makes currently focused menu option more noticable
 - [Marvin Helper](https://steamcommunity.com/sharedfiles/filedetails/?id=2847617433) - adds autosuggest to the console (F2)
 - [Hedin_Union_Ext_Stat](https://www.sefaris.eu/union/plugins) - new stats in char screen
