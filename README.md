@@ -13,16 +13,27 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 
 
 ### other mods
-- [D3D11 Renderer](https://github.com/SaiyansKing/GD3D11) - DirectX 11 renderer (original game uses DX8)
+- [D3D11 Renderer](https://github.com/SaiyansKing/GD3D11) - DirectX 11 renderer (original game uses DX7)
 - [GRawInput](https://github.com/SaiyansKing/GRawInput/releases) - fixes mouse sensitivity for camera rotation
 - [zUtilities](https://sefaris.eu/union/plugins) - adds a plethora of QoL utilities, like quick save/load, time acceleration on key press, status bar config, etc.
 - [zMiscUtils](https://sefaris.eu/union/plugins) - similar as zUtilities, but provides different QoL features (set `CorrectModelFocusNamePos=0` to avoid conflict)
 - [Quick Loot](https://www.sefaris.eu/union/plugins) - pick up items not only without animation, but also few at once and from chests
 - [Hedin_Union_Adv_Inventory](https://www.sefaris.eu/union/plugins) - new inventory, with mouse support!
-- [ezPickPocket](https://www.sefaris.eu/union/plugins)
+- [Hedin_Union_XP_Bar]()
+- [ItemMap]()
 - [NoUnderwaterEffect](https://www.sefaris.eu/union/plugins)
 - [Hedin_Union_Color_Menu](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) - makes currently focused menu option more noticable
 - [Marvin Helper](https://steamcommunity.com/sharedfiles/filedetails/?id=2847617433) - adds autosuggest to the console (F2)
 - [Hedin_Union_Ext_Stat](https://www.sefaris.eu/union/plugins) - new stats in char screen
 - ~~[Hedin_Union_Gothic_ScreenInfo](https://www.sefaris.eu/union/plugins)~~ - adds features that already overlap with zUtilities
-- [Hedin_Union_Hitpoints_Monitor](https://www.sefaris.eu/union/plugins) - shows damage (included with zUtilities) and regenereated HP
+- [Hedin_Union_Show_FPS_MP]() - shows FPS in top left corner
+- [Hedin_Union_Thief_Helper]()
+- [ezPickPocket](https://www.sefaris.eu/union/plugins)()
+- [zHackChest]()
+- [zBugFixes]()
+- [zImprovedLegacyFrying]() - enables cooking all meat at once
+- [zMarkItems]() - marks new items and quest items
+- [zScaleFightRange]()
+- [zSharedItems]()
+- [zTorchContro]()
+- [zTraderStoleMyItems]() - traders take off their weapons when trading
