@@ -41,6 +41,6 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 ### visuals
 - [D3D11 Renderer](https://github.com/SaiyansKing/GD3D11) - DirectX 11 renderer (original game uses DX7)
 - [Vurt's Clouds for GD3D11](https://www.nexusmods.com/gothic2/mods/95)
-- [Hedin_Union_Adv_Inventory_INV_NEW_SLOT-C](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/Hedin_Union_Adv_Inventory_INV_NEW_SLOT-C.vdf) - inventory slot overwrite from [Inventar Slots9.vdf](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Inventar%20Slots9.vdf)
+- [Hedin_Union_Adv_Inventory_INV_NEW_SLOT-C](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/Hedin_Union_Adv_Inventory_INV_NEW_SLOT-C.vdf) - inventory slot overwrite for Hedin_Union_Adv_Inventory from [Inventar Slots9.vdf](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Inventar%20Slots9.vdf)
 
 [My settings](https://github.com/the-overdriven/G2-ini-fixer). Before changing the settings, the modded game needs to run at least once, so that all the Union plugins append their default settings to Gothic.ini.
