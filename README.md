@@ -3,7 +3,7 @@ Gothic 2 plugins that should be played in any playthrough (modded or not)
 
 Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are many sources, but sefaris.eu is currently most convenient and reliable.
 
-### my mods
+## my mods
 - [my tiny zPE mods](https://github.com/the-overdriven/G2-my-zPE-mods) (runnable with zParserExtender, mods including "NB" in name are dedicated for New Balance mod) | [download all](https://github.com/the-overdriven/G2-my-zPE-mods/archive/refs/heads/main.zip)
 - [Hush Annoying Sounds](https://www.nexusmods.com/gothic2/mods/39) - makes annoying sounds quieter, so you don't have to turn down the volume for ALL sounds (including dubbing).
 - [50 sounds of pain](https://www.nexusmods.com/gothic2/mods/48) - restores some unused groan sounds (male and female). Original game doesn't make use of female sounds at all.
@@ -13,8 +13,7 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [NoLoadingScreen](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/NoLoadingScreen.vdf) - replaces the splash screen with an invisible image leaving only the progress bar
 - [Sounds_HushedOrc_GameStart](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/Sounds_HushedOrc_GameStart.mod) - plays a dying orc sound when the game is loaded instead of the overly loud menu music
 
-### other mods
-- [D3D11 Renderer](https://github.com/SaiyansKing/GD3D11) - DirectX 11 renderer (original game uses DX7)
+## other mods
 - [GRawInput](https://github.com/SaiyansKing/GRawInput/releases) - fixes mouse sensitivity for camera rotation
 - [zUtilities](https://sefaris.eu/union/plugins) - adds a plethora of QoL utilities, like quick save/load, time acceleration on key press, status bar config, etc.
 - [zMiscUtils](https://sefaris.eu/union/plugins) - similar as zUtilities, but provides different QoL features (set `CorrectModelFocusNamePos=0` to avoid conflict)
@@ -38,5 +37,10 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [zSharedItems](https://www.sefaris.eu/union/plugins) - enables item sharing with followers
 - [zTorchControl](https://www.sefaris.eu/union/plugins) - saves torch state and adds hotkeys
 - [zTraderStoleMyItems](https://www.sefaris.eu/union/plugins) - traders take off their weapons when trading
+
+### visuals
+- [D3D11 Renderer](https://github.com/SaiyansKing/GD3D11) - DirectX 11 renderer (original game uses DX7)
+- [Vurt's Clouds for GD3D11](https://www.nexusmods.com/gothic2/mods/95)
+- 
 
 [My settings](https://github.com/the-overdriven/G2-ini-fixer). Before changing the settings, the modded game needs to run at least once, so that all the Union plugins append their default settings to Gothic.ini.
