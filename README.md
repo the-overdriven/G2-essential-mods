@@ -43,6 +43,8 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 ### visuals
 - [D3D11 Renderer](https://github.com/SaiyansKing/GD3D11) - DirectX 11 renderer (original game uses DX7)
 - [Vurt's Clouds for GD3D11](https://www.nexusmods.com/gothic2/mods/95)
+
+### visuals (UI)
 - [Hedin_Union_Adv_Inventory_INV_NEW_SLOT-C](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/Hedin_Union_Adv_Inventory_INV_NEW_SLOT-C.vdf) - inventory slot overwrite for Hedin_Union_Adv_Inventory from [Inventar Slots9.vdf](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Inventar%20Slots9.vdf): <img src="https://github.com/user-attachments/assets/76ab5e8e-bc05-4525-b490-2a6f81a8d8b4" width="120px">
 - [Balken Laden1](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Balken%20Laden1.vdf) - loading/saving bars:  
 ![image](https://github.com/user-attachments/assets/599d3d24-b94f-407a-a9b4-fba9bd16aa74)
@@ -55,6 +57,7 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 ![image](https://github.com/user-attachments/assets/32ecbef0-45ef-48b9-b1e5-c1a1ebcf6429)
 - [Spruchrollen1](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BAllerlei%5D%20Spruchrollen1.vdf) - coloured scrolls:  
 ![image](https://github.com/user-attachments/assets/6793ce04-1b36-4890-9498-4f7b5499d841)
-
+- Final effect (main menu):
+![image](https://github.com/user-attachments/assets/7dbefa26-5826-480a-b1b4-c1fa5226530b)
 
 [My settings](https://github.com/the-overdriven/G2-ini-fixer). Before changing the settings, the modded game needs to run at least once, so that all the Union plugins append their default settings to Gothic.ini.
