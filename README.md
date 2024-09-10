@@ -45,7 +45,8 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [Vurt's Clouds for GD3D11](https://www.nexusmods.com/gothic2/mods/95)
 
 ### visuals (UI)
-- [Hedin_Union_Adv_Inventory_INV_NEW_SLOT-C](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/Hedin_Union_Adv_Inventory_INV_NEW_SLOT-C.vdf) - inventory slot overwrite for Hedin_Union_Adv_Inventory from [Inventar Slots9.vdf](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Inventar%20Slots9.vdf): <img src="https://github.com/user-attachments/assets/76ab5e8e-bc05-4525-b490-2a6f81a8d8b4" width="120px">
+- [Hedin_Union_Adv_Inventory_INV_NEW_SLOT-C](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/Hedin_Union_Adv_Inventory_INV_NEW_SLOT-C.vdf) - inventory slot overwrite for Hedin_Union_Adv_Inventory from
+[Inventar Slots9.vdf](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Inventar%20Slots9.vdf): <img src="https://github.com/user-attachments/assets/76ab5e8e-bc05-4525-b490-2a6f81a8d8b4" width="120px">
 - [Balken Laden1](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Balken%20Laden1.vdf) - loading/saving bars:  
 ![image](https://github.com/user-attachments/assets/599d3d24-b94f-407a-a9b4-fba9bd16aa74)
 - [Fenster Speichern2](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Fenster%20Speichern2.vdf) - transparent "Gothic II" logo screen when saving
