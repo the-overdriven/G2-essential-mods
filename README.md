@@ -8,7 +8,7 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [Hush Annoying Sounds](https://www.nexusmods.com/gothic2/mods/39) - makes annoying sounds quieter, so you don't have to turn down the volume for ALL sounds (including dubbing).
 - [50 sounds of pain](https://www.nexusmods.com/gothic2/mods/48) - restores some unused groan sounds (male and female). Original game doesn't make use of female sounds at all.
 - [Simple FPS Optimizer](https://www.nexusmods.com/gothic2/mods/89) - increases FPS by automatically adjusting vob/sight/spawn rendering range based on your FPS rate.
-- Immersive Dialog Camera - replaces cinematic camera with a third-person view camera
+- [Immersive Dialog Camera](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/ImmersiveDialogCamera.vdf) - replaces cinematic camera with a third-person view camera
 - [Load-Free Recorder](https://www.nexusmods.com/gothic2/mods/90) (only when recording)
 - [NoLoadingScreen](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/NoLoadingScreen.vdf) - replaces the splash screen with an invisible image leaving only the progress bar
 - [Sounds_HushedOrc_GameStart](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/Sounds_HushedOrc_GameStart.mod) - plays a dying orc sound when the game is loaded instead of the overly loud menu music
