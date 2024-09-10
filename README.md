@@ -48,9 +48,13 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 ![image](https://github.com/user-attachments/assets/599d3d24-b94f-407a-a9b4-fba9bd16aa74)
 - [Fenster Speichern2](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Fenster%20Speichern2.vdf) - transparent "Gothic II" logo screen when saving
 ![image](https://github.com/user-attachments/assets/c155fb8a-3bf6-40b9-9488-427ded990ee6)
-- [Hintergrundbild Menu1](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Hintergrundbild%20Menu1.vdf) - background menu from the classic Gothic 2 (paladin fighting with an orc)
+- [Hintergrundbild Menu1](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Hintergrundbild%20Menu1.vdf) - main menu background from the classic Gothic 2 (paladin fighting with an orc)
 - [Inventar Fenster8.vdf](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Inventar%20Fenster8.vdf) - inventory window:
 ![image](https://github.com/user-attachments/assets/f0f03d23-6249-4920-b017-cfb56634b9b5)
-- ...
+- [Fenster Menus5](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BDesign%5D%20Fenster%20Menus5.vdf) - menu backgrounds from New Balance mod:  
+![image](https://github.com/user-attachments/assets/32ecbef0-45ef-48b9-b1e5-c1a1ebcf6429)
+- [Spruchrollen1](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BAllerlei%5D%20Spruchrollen1.vdf) - coloured scrolls:  
+![image](https://github.com/user-attachments/assets/6793ce04-1b36-4890-9498-4f7b5499d841)
+
 
 [My settings](https://github.com/the-overdriven/G2-ini-fixer). Before changing the settings, the modded game needs to run at least once, so that all the Union plugins append their default settings to Gothic.ini.
