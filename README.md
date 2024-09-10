@@ -13,7 +13,6 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [NoLoadingScreen](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/NoLoadingScreen.vdf) - replaces the splash screen with an invisible image leaving only the progress bar
 - [Sounds_HushedOrc_GameStart](https://github.com/the-overdriven/g2-nb-install-guide/blob/main/plugins/Sounds_HushedOrc_GameStart.mod) - plays a dying orc sound when the game is loaded instead of the overly loud menu music
 
-
 ### other mods
 - [D3D11 Renderer](https://github.com/SaiyansKing/GD3D11) - DirectX 11 renderer (original game uses DX7)
 - [GRawInput](https://github.com/SaiyansKing/GRawInput/releases) - fixes mouse sensitivity for camera rotation
@@ -39,3 +38,5 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [zSharedItems](https://www.sefaris.eu/union/plugins) - enables item sharing with followers
 - [zTorchControl](https://www.sefaris.eu/union/plugins) - saves torch state and adds hotkeys
 - [zTraderStoleMyItems](https://www.sefaris.eu/union/plugins) - traders take off their weapons when trading
+
+[My settings](https://github.com/the-overdriven/G2-ini-fixer). Before changing the settings, the modded game needs to run at least once, so that all the Union plugins append their default settings go Gothic.ini.
