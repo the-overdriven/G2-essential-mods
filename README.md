@@ -39,4 +39,4 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [zTorchControl](https://www.sefaris.eu/union/plugins) - saves torch state and adds hotkeys
 - [zTraderStoleMyItems](https://www.sefaris.eu/union/plugins) - traders take off their weapons when trading
 
-[My settings](https://github.com/the-overdriven/G2-ini-fixer). Before changing the settings, the modded game needs to run at least once, so that all the Union plugins append their default settings go Gothic.ini.
+[My settings](https://github.com/the-overdriven/G2-ini-fixer). Before changing the settings, the modded game needs to run at least once, so that all the Union plugins append their default settings to Gothic.ini.
