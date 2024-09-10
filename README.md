@@ -57,7 +57,12 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 ![image](https://github.com/user-attachments/assets/32ecbef0-45ef-48b9-b1e5-c1a1ebcf6429)
 - [Spruchrollen1](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/%5BAllerlei%5D%20Spruchrollen1.vdf) - coloured scrolls:  
 ![image](https://github.com/user-attachments/assets/6793ce04-1b36-4890-9498-4f7b5499d841)
-- Final effect (main menu):
+- [HP & MP bars from NB](https://github.com/the-overdriven/G2-essential-mods/blob/main/vdf/NB_HP_MP_bars.vdf) - slightly modified by me (removed black space on the sides):  
+![image](https://github.com/user-attachments/assets/95dbfd54-6f43-4653-8e66-0106bed4e197)
+![image](https://github.com/user-attachments/assets/b16628ca-d618-445c-a9e0-fe8d913417f7)
+
+Final effect (main menu):
 ![image](https://github.com/user-attachments/assets/7dbefa26-5826-480a-b1b4-c1fa5226530b)
+
 
 [My settings](https://github.com/the-overdriven/G2-ini-fixer). Before changing the settings, the modded game needs to run at least once, so that all the Union plugins append their default settings to Gothic.ini.
