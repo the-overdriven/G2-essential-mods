@@ -20,7 +20,7 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [Hedin_Union_Color_Menu](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) - makes currently focused menu option more noticable
 - [Marvin Helper](https://steamcommunity.com/sharedfiles/filedetails/?id=2847617433) - adds autosuggest to the console (F2)
 - [zUtilities](https://sefaris.eu/union/plugins) - adds a plethora of QoL utilities, like quick save/load, time acceleration on key press, status bar config, etc.
-- [zMiscUtils](https://sefaris.eu/union/plugins) - similar as zUtilities, but provides different QoL features, i.e. shows amount in name of the focused item, moves last updated quests to top, fast food eating, etc. (set `CorrectModelFocusNamePos=0` to avoid conflict with zUtilities)
+- [zMiscUtils](https://sefaris.eu/union/plugins) - similar as zUtilities, but provides different QoL features, i.e. fixes strafe (ignores focused mob), shows amount in name of the focused item, moves last updated quests to top, fast food eating, etc. (set `CorrectModelFocusNamePos=0` to avoid conflict with zUtilities)
 - [Quick Loot](https://www.sefaris.eu/union/plugins) - pick up items not only without animation, but also few at once and from chests
 - [Hedin_Union_Adv_Inventory](https://www.sefaris.eu/union/plugins) - new inventory, with mouse support!
 - [Hedin_Union_XP_Bar](https://www.sefaris.eu/union/plugins) - adds XP bar
