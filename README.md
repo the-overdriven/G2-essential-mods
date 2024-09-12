@@ -15,6 +15,7 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 
 ## other mods
 - [GRawInput](https://github.com/SaiyansKing/GRawInput/releases) - fixes mouse sensitivity for camera rotation
+- [Script Patch](https://steamcommunity.com/sharedfiles/filedetails/?id=2792250061)
 
 ### Union plugins (most of them are on sefaris.eu)
 - [Hedin_Union_Color_Menu](https://drive.google.com/drive/folders/1T_ADIdlwvWruW6tzxgt1rIwKIlKUjaLm) - makes currently focused menu option more noticable
