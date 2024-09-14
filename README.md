@@ -40,6 +40,7 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 - [zSharedItems](https://www.sefaris.eu/union/plugins) - enables item sharing with followers
 - [zTorchControl](https://www.sefaris.eu/union/plugins) - saves torch state and adds hotkeys
 - [zTraderStoleMyItems](https://www.sefaris.eu/union/plugins) - traders take off their weapons when trading
+- [zFlyingCreatureFix](https://github.com/fyryNy/FlyingCreaturesFix/releases/latest/download/FlyingCreaturesFix.vdf) - fixes problems with (all) monsters and NPC getting stuck on edges and with flying monsters that are floating too high above the ground, making them impossible to hit with melee weapons, makes throwing (non-flying) enemies off a cliff possible
 
 ### visuals
 - [D3D11 Renderer](https://github.com/SaiyansKing/GD3D11) - DirectX 11 renderer (original game uses DX7)
