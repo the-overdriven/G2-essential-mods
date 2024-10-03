@@ -44,7 +44,7 @@ Absolutely mandatory: [Union](https://www.sefaris.eu/union/plugins). There are m
 
 ### visuals
 - [D3D11 Renderer](https://github.com/SaiyansKing/GD3D11) - DirectX 11 renderer (original game uses DX7)
-- [Vurt's Clouds for GD3D11](https://www.nexusmods.com/gothic2/mods/95)
+- [Vurt's Clouds for GD3D11](https://www.nexusmods.com/gothic2/mods/95) - to use all skies download all variants and unpack them all to `system\GD3D11\textures\SkyDay_x.dds` (rename them). Then copy the script [SkyDayRandom.bat](https://github.com/the-overdriven/G2-essential-mods/blob/main/scripts/SkyDayRandom.bat) to the same folder. Finally, run the game by running the script [runGothic.bat](https://github.com/the-overdriven/G2-essential-mods/blob/main/scripts/runGothic.bat) (can be in any folder). Adapt the paths, if needed. This will make GD3D11 use a random sky file every time you run the game (currently it can use only one SkyDay.dds at a time)
 - [G3 plants]() - plants from Gothic 3 (more visible than in vanilla), to be uploaded
 
 ### visuals (UI)
